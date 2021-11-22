@@ -1,5 +1,5 @@
 # Python-Client-Server
-Demonstration of using MongoDB with Python on behalf of the fictional company Grazioso Salvare.
+Demonstration of using MongoDB with Python on behalf of the fictional company Grazioso Salvare. This was a deliverable for a CS core class.
 
 For a demonstration of functionality, please review the .docx file in this repo which includes a .gif demo.
 
